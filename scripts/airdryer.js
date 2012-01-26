@@ -1,5 +1,6 @@
-(function() {
-	var $control, $controlTemplate, i, $icon, len, resolved;
+(function($) {
+	var $control, $controlTemplate, i,
+		$icon, len, resolved;
 
 	var $icons = $(".environment_icon");
 	var TEMPLATE = [
@@ -43,4 +44,4 @@
 			.toggleClass("unresolved", resolved);
 		event.preventDefault();
 	});
-})();
+})(jQuery);
