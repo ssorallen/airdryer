@@ -1,4 +1,15 @@
 Air Dryer
 
-Airbrake is great at reporting errors, but it's not so great at letting you
-interact with those errors. Air Dryer breathes some life into Airbrake's UI.
+Airbrake is great at reporting errors, but it's not so great at letting you interact with those errors. Air Dryer breathes some life into Airbrake's UI.
+
+1. Installation
+---------------
+
+* Open the Chrome Extension file `airdryer.crx` in Chrome. It will prompt you to install the Extension
+
+2. Usage
+---------------
+
+* Each error in the Airbrake project view will have a slider to mark it as resolved. They stay on the page after being marked as resolved until you refresh.
+
+Resolve away!
