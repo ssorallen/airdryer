@@ -1,0 +1,20 @@
+{
+	"name": "Air Dryer",
+	"version": "1.0",
+	"description": "Makes Airbrake a little more friendly.",
+	"icons": {
+		"16": "icon-16x16.png",
+		"48": "icon-48x48.png",
+		"128": "icon-128x128.png"
+	},
+	"permissions": [
+		"*://*.airbrakeapp.com/"
+	],
+	"content_scripts": [
+		{
+			"matches": ["*://*.airbrakeapp.com/projects/*/errors*"],
+			"css": ["stylesheets/airdryer.css"],
+			"js": ["scripts/jquery-1.7.1.min.js", "scripts/airdryer.js"]
+		}
+	]
+}

@@ -1,0 +1,4 @@
+Air Dryer
+
+Airbrake is great at reporting errors, but it's not so great at letting you
+interact with those errors. Air Dryer breathes some life into Airbrake's UI.
