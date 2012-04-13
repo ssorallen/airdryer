@@ -1,6 +1,6 @@
 Air Dryer
 
-Airbrake is great at reporting errors, but it's not so great at letting you interact with those errors. Air Dryer breathes some life into Airbrake's UI.
+Airbrake is great at reporting errors, but marking lots of errors as resolved requires loading a full page for each error. Air Dryer adds a "Resolved" toggle in the list view for every error and makes resolving one click.
 
 1. Installation
 ---------------
