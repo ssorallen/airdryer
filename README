@@ -5,7 +5,7 @@ Airbrake is great at reporting errors, but marking lots of errors as resolved re
 1. Installation
 ---------------
 
-* Open the Chrome Extension file `airdryer.crx` in Chrome. It will prompt you to install the Extension
+* Install the Air Dryer extension from the Chrome Web Store: https://chrome.google.com/webstore/detail/ikfgibklncndgbobiiobgmbnkkkkhegk/
 
 2. Usage
 ---------------
