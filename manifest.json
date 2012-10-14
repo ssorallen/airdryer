@@ -1,6 +1,6 @@
 {
 	"name": "Air Dryer",
-	"version": "1.1.4",
+	"version": "1.2.0",
 	"description": "Makes Airbrake a little more friendly.",
 	"icons": {
 		"128": "icon-128x128.png"
