@@ -9,7 +9,8 @@
 	"content_scripts": [
 		{
 			"matches": [
-				"*://*.airbrake.io/projects/*/errors*"
+				"*://*.airbrake.io/projects/*/errors*",
+				"*://*.airbrake.io/projects/*/groups*"
 			],
 			"css": ["stylesheets/airdryer.css"],
 			"js": ["scripts/jquery-1.7.1.min.js", "scripts/airdryer.js"]
