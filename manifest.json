@@ -16,5 +16,6 @@
 			"css": ["stylesheets/airdryer.css"],
 			"js": ["scripts/jquery-1.7.1.min.js", "scripts/airdryer.js"]
 		}
-	]
+	],
+	"manifest_version": 2
 }
