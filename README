@@ -11,6 +11,7 @@ Airbrake is great at reporting errors, but marking lots of errors as resolved re
 ---------------
 
 * Each error in the Airbrake project view will have a slider to mark it as resolved. They stay on the page after being marked as resolved until you refresh.
+* Click the "Latest" or "Count" column header to sort errors by that value.
 
 Resolve away!
 
